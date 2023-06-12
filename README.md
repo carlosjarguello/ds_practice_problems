@@ -1,1 +1,1 @@
-costumer_churn_analysis_example
+# Analysis_basic_practice
